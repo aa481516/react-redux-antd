@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "firstName": "Armen",
+      "lastName": "Asatryan",
+      "username": "aa481516@gmail.com",
+      "password": "qqqq",
+      "id": 1
+    }
+  ],
+  "contacts": [
+    {
+      "name": "qqqq",
+      "phone": "qqqqq",
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}
